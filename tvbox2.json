@@ -4,7 +4,7 @@
         {
             "name": "Auto",
             "type": 0,
-            "url": "https://ghproxy.net/https://weixine.net/tv/ysclive.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/TV/master/result.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
