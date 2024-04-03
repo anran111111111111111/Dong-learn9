@@ -217,14 +217,14 @@
         },
          {
       "key": "XBPQ_电影先生",
-      "name": "电影先生|XBPQ",
+      "name": "电影先生┃BPQ",
       "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
-        "分类url": "https://dy.xianshe.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
+        "分类url": "https://dyxs6.xyz/pianku-{cateId}-{area}-------{catePg}---{year}.html",
         "简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-        "搜索url": "https://dy.xianshe.ng/search--------------.html?wd={wd}",
+        "搜索url": "https://dyxs6.xyz/search--------------.html?wd={wd}",
         "搜索数组": "<div class=\"module-item-pic\">&&</div>",
         "图片": "src=\"&&\"",
         "搜索标题": "title=\"&&\"",
