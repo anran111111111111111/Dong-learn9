@@ -272,7 +272,7 @@
             "ext": {
                 "分类url": "http://video.adminqt.cn/index.php/vod/type/id/{cateId}/page/{catePg}.html",
                 "分类": "电影&剧集&动漫&综艺&短剧",
-                "分类值": "20&22&21&23&2",
+                "分类值": "20&22&21&23&33",
                 "数组": "class=\"mo-paxs-5px&&<li",
                 "搜索url": "http://video.adminqt.cn/index.php/vod/search/wd/{wd}.html",
                 "搜索数组": "class=\"mo-paxs-5px&&</dt",
