@@ -267,6 +267,7 @@
         {
             "key": "初恋",
             "name": "初云┃BPQ",
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
