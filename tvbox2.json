@@ -201,6 +201,7 @@
                 "副标题": "class=\"jidi\"><span>&&</span>",
                 "搜索模式": "1",
                 "搜索url": "https://www.subaibaiys.com/?s={wd}",
+                "搜索图片": "data-original=\"&&\"",
                 "影片年代": "年份：&&</li>",
                 "影片地区": "地区：&&</li>",
                 "影片类型": "类型：&&</li>",
