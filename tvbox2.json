@@ -367,6 +367,17 @@
             "ext": "./xBPQ/两个BT.json"
         },
         {
+            "key": "哆哆追剧",
+            "name": "哆哆┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "./xBPQ/哆哆追剧.json"
+        },
+        {
             "key": "黑狐",
             "name": "黑狐┃BPQ",
             "type": 3,
