@@ -338,7 +338,11 @@
                 "标题": "html\">&&</a",
                 "副标题": "mo-coxs-center\">&&</span",
                 "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\""
+                "链接": "href=\"&&\"",
+                "播放数组": "ul class=\"mo-movs-item mo-sort-boxs mo-cols-rows mo-pamd-5px mo-cols-show\">&&</ul>",
+                "播放列表": "<li class=\"mo-paxs-5px mo-cols-info mo-cols-xs2 mo-cols-lg1\">&&</li>",
+                "播放标题": "target=\"_self\">&&</a>",
+                "播放链接": "href=\"&&\""
             }
         },
         {
