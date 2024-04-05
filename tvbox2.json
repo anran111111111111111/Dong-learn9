@@ -333,7 +333,7 @@
                 "搜索图片": "data-original=\"&&\"",
                 "搜索链接": "href=\"&&\"",
                 "线路数组": "class=\"mo-movs-btns&&/a>",
-                "播放数组": "ul class=\"mo-movs-item mo-sort-boxs mo-cols-rows&&</ul",
+                "播放数组": "ul class=\"mo-movs-item&&</ul",
                 "状态": "span class=\"mo-situ-rema&&</span",
                 "导演": "导演:&&</a",
                 "主演": "主演:&&</li",
