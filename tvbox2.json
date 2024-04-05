@@ -340,7 +340,7 @@
                 "简介": "<div class=\"mo-paxs-5px mo-ptxs-0px\">&&</div>",
                 "播放列表": "<li class=\"mo-paxs-5px mo-cols-info mo-cols-xs2 mo-cols-lg1\">&&</li>",
                 "播放标题": "target=\"_self\"&&</a",
-                "播放链接": "href=\"&&",
+                "播放链接": "href=\"&&\"",
                 "简介": "mo-ptxs-0px\">&&</div",
                 "线路标题": "/i>&&<",
                 "标题": "html\">&&</a",
