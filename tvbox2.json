@@ -71,16 +71,6 @@
             "timeout": 25
         },
         {
-            "key": "77",
-            "name": "七七┃App",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "酷看",
             "name": "酷看┃秒播",
             "type": 3,
@@ -100,6 +90,18 @@
             "searchable": 1,
             "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
             "ext": "https://www.bdys03.com/$$$null$$$1"
+        },
+        {
+            "key": "Bt0",
+            "name": "不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "jar": "https://agit.ai/leevi/PiG/raw/branch/master/pg.jar",
+            "ext": "null$$$null$$$1"
         },
         {
             "key": "原创",
