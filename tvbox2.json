@@ -319,14 +319,6 @@
             }
         },
         {
-            "key": "影视工厂",
-            "name": "工厂┃BPQ",
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./xBPQ/影视工厂2.json"
-        },
-        {
             "key": "热播库",
             "name": "热播┃BPQ",
             "type": 3,
@@ -357,6 +349,17 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
+{
+            "key": "片吧影院",
+            "name": "片吧┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "./xBPQ/两个BT.json"
+        },
         {
             "key": "两个BT",
             "name": "2BT┃BPQ",
@@ -366,7 +369,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/两个BT.json"
+            "ext": "./xBPQ/片吧影院.json"
         },
         {
             "key": "黑狐",

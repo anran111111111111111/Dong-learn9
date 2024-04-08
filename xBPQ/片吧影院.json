@@ -1,13 +1,13 @@
 {
 "作者":"张弘",
 "站名":"片吧影院",
-"主页url":"https://www.pbpb.tv",
+"主页url":"https://www.pbgoo.com",
 "数组":"class=\"stui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"", 
 "副标题":"class=\"pic-text text-right\">&&</span>",
-"搜索url":"/so/{wd}----------{pg}---.html",
+"搜索url":"/sou/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"<div class=\"stui-vodlist__box\">&&</div>",
 "搜索图片":"data-original=\"&&\"",
@@ -28,7 +28,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
-"分类url":"https://www.pbpb.tv/class/{cateId}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
+"分类url":"https://www.pbgoo.com/class/{cateId}-{area}-{by}-{全部}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
