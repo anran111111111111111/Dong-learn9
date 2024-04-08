@@ -358,7 +358,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/两个BT.json"
+            "ext": "./xBPQ/片吧影院.json"
         },
         {
             "key": "两个BT",
@@ -369,7 +369,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/片吧影院.json"
+            "ext": "./xBPQ/两个BT.json"
         },
         {
             "key": "黑狐",
