@@ -349,7 +349,7 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
-{
+     {
             "key": "片吧影院",
             "name": "片吧┃BPQ",
             "type": 3,
@@ -359,6 +359,17 @@
             "filterable": 1,
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "./xBPQ/片吧影院.json"
+        },
+       {
+            "key": "磁力熊",
+            "name": "磁力熊┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+            "ext": "./xBPQ/磁力熊.json"
         },
         {
             "key": "两个BT",
