@@ -57,14 +57,15 @@
         }
     ],
     "sites": [
-"key": "豆瓣",
-      "name": "豆瓣,
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
         {
             "key": "厂长",
             "name": "厂长┃影视",
@@ -78,16 +79,16 @@
             "ext": "https://www.czys01.com/",
             "timeout": 15
         },
-{
-      "key": "七七",
-      "name": 七七┃秒播",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+        {
+            "key": "七七",
+            "name": "七七┃秒播",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "酷看",
             "name": "酷看┃秒播",
@@ -367,7 +368,7 @@
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
         },
-     {
+        {
             "key": "片吧影院",
             "name": "片吧┃BPQ",
             "type": 3,
@@ -378,7 +379,7 @@
             "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
             "ext": "./xBPQ/片吧影院.json"
         },
-       {
+        {
             "key": "磁力熊",
             "name": "磁力熊┃BPQ",
             "type": 3,
