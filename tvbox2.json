@@ -224,6 +224,7 @@
                 "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg};;aks2",
                 "数组": "<li>&&</li>",
                 "图片": "data-original=\"&&\"",
+                "图片代理": "1",
                 "副标题": "class=\"jidi\"><span>&&</span>",
                 "搜索模式": "1",
                 "搜索url": "https://www.subaibaiys.com/?s={wd}",
