@@ -16,7 +16,7 @@
     "搜索副标题": "<div class=\"module-item-note\">&&</div>",
     "线路数组": "class=\"module-tab-item tab-item&&</div>",
     "线路标题": "span>&&</small>",
-    "播放数组": "<div class=\"module-play-list\">&&</div>",
+    "播放数组": "class=\"module-play-list\">&&</div>",
     "影片年代": "上映：&&</div>",
     "导演": "导演：</span>&&<span",
     "主演": "主演：</span>&&<span",
