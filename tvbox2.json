@@ -171,8 +171,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-            "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt"
+            "ext": "./XYQH/电影港.json"
         },
         {
             "key": "新6V",
@@ -197,20 +196,6 @@
         },
         {
             "key": "py_cctv",
-            "name": "央视宝盒┃[py]",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "type": 3,
-            "api": "py_cctv1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./py/央视片库.py"
-        },
-        {
-            "key": "py_cctv",
             "name": "央视影视┃[py]",
             "style": {
                 "type": "rect",
@@ -220,7 +205,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "./py/央视片库.py"
+            "api": "./py/央视片库.py",
+            "ext": "./py/央视片库.py"
         },
         {
             "key": "csp_xBPQ_素白",
@@ -386,17 +372,6 @@
                 "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
                 "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
             }
-        },
-        {
-            "key": "片吧影院",
-            "name": "片吧┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./JAR/XBPQ1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-            "ext": "./xBPQ/片吧影院.json"
         },
         {
             "key": "文才影院",
