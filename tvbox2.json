@@ -197,20 +197,6 @@
         },
         {
             "key": "py_cctv",
-            "name": "央视┃[py]",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./py/央视片库.py"
-        },
-        {
-            "key": "py_cctv",
             "name": "央视1┃[py]",
             "style": {
                 "type": "rect",
