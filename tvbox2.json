@@ -153,7 +153,6 @@
             "name": "苹果┃影视",
             "type": 3,
             "playerType": "2",
-            "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar",
             "api": "csp_LiteApple"
         },
         {
@@ -171,17 +170,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./JAR/ym.jar;md5;33CB609D1D87B8F3703D92FF3590EF15",
             "ext": "./XYQH/电影港.json"
-        },
-        {
-            "key": "新6V",
-            "name": "6V┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
         },
         {
             "key": "白嫖",
@@ -520,13 +510,30 @@
             "ext": "./JS/js/JustLive.js"
         },
         {
-            "key": "drpy_js_量子资源",
-            "name": "量子┃[js]",
+            "key": "量子资源",
+            "name": "量子┃资源",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "playurl": "json:https://tvmvip.com/lz2.php?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "type": 3,
-            "api": "./JS/lib/drpy2.min.js",
-            "ext": "./JS/js/量子资源.js"
+            "filterable": 0,
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
         },
         {
             "key": "csp_XYQHiker_兔小贝",
